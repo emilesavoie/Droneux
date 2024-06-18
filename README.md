@@ -1,7 +1,7 @@
 # Drone
 
 ## Setup
-We will be using ROS3 to program the drone's control in the Ubuntu environment. Follow the next steps to install Ubuntu dual-boot and ROS dependencies
+We will be using ROS2 to program the drone's control in the Ubuntu environment. Follow the next steps to install Ubuntu dual-boot and ROS dependencies
 
 ### ROS Setup
 
